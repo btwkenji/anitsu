@@ -6,7 +6,7 @@ import (
 	"os"
 
 	jikan "github.com/darenliang/jikan-go"
-	"github.com/kenjitheman/anitsu/api"
+	"github.com/nezutero/anitsu/api"
 )
 
 func main() {

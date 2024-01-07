@@ -1,4 +1,4 @@
-module github.com/kenjitheman/anitsu
+module github.com/nezutero/anitsu
 
 go 1.21.5
 
